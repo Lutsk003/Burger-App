@@ -23,13 +23,13 @@ body {
 
 h1 {
     text-align: center;
-    font-family: 'Lobster', cursive;
+    font-family: 'Permanent Marker', cursive;
     font-size: 65px;
     margin: 50px;
 }
 
 .burgerAvailable {
-    font-family: 'Lobster', cursive;
+    font-family: 'Permanent Marker', cursive;
     font-weight: normal;
     font-size: 20px;
     text-align: center;
@@ -47,7 +47,7 @@ h1 {
 }
 
 .burgerEaten {
-    font-family: 'Lobster', cursive;
+    font-family: 'Permanent Marker', cursive;
     font-weight: normal;
     font-size: 20px;
     text-align: center;
@@ -60,7 +60,7 @@ h1 {
 
 h2 {
     text-align: center;
-    font-family: 'Lobster', cursive;
+    font-family: 'Permanent Marker', cursive;
     font-size: 40px;
     margin: 50px;
 }
@@ -74,7 +74,7 @@ h3 {
 }
 
 #addBurgerButton {
-    font-family: 'Lobster', cursive;
+    font-family: 'Permanent Marker', cursive;
     font-weight: normal;
     font-size: 20px;
     text-align: center;
